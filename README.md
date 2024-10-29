@@ -13,7 +13,7 @@
 
 - [SRF Snords Project](https://github.com/michal7kw/SRF_Snords)
 
-- SRF MECP2 Project
+- [SRF MECP2 Project](https://github.com/michal7kw/SRF_MECP2)
   - [ChipSeq](https://github.com/michal7kw/SRF_ChipSeq)
   - [Bisulfite-Seq](https://github.com/michal7kw/SRF_Bisulf)
   - [MeDIP-Seq](https://github.com/michal7kw/SRF_MeDIP)
